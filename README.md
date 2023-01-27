@@ -5,12 +5,23 @@ To write a python program for copying the contents from one file to another file
 PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
-#### Step 1:import sys
-#### Step 2: initially make count = 0 
-#### Step 3: open the content file using command line arguments.
-#### Step 4:  by using for loop name the function as "line"
-#### Step 5: split the line using .split
-#### Step 6: split the line using .split
+#### step 1:
+First we need to open the required file form which we need to copy the text.
+
+Again using the with keyword to open the empty file.
+
+#### Step 2:
+Using keyword "with" to open the requied file.
+
+#### Step 3:
+Again using the with keyword to open the empty file.
+
+#### Step 4:
+The empty file is open by using 'W' which is used to write only.
+
+#### Step 5:
+The four function is used to take each line from the main file.
+
 
 ## PROGRAM:
 ```
